@@ -1,6 +1,4 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project. 
+# SummariseSumo
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://buildspace.so/p/build-ai-writing-assistant-gpt3) and link your Discord account so you can get access to helpful channels and your instructor!
+### About 👋
+We believe that understanding websites shouldn’t be a chore. That’s why we created SummariseSumo, a powerful tool that allows users to quickly and easily understand complicated websites in just one paragraph. With our extension, you can get the gist of any website in no time and create valuable content in the blink of an eye. Get ready to make understanding websites a breeze!
